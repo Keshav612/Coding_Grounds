@@ -1,0 +1,26 @@
+//Implementing try catch
+public class Try_Catch {
+
+	void func1()
+	{
+		try
+		{
+			int a,b;
+			a=0;
+			
+			b=20/0;
+			System.out.println("Not print");
+			
+		}
+		catch(ArithmeticException E)
+		{
+			System.out.println("Division by zero");
+		}
+		
+	}
+	public static void main(String[] args) {
+		Try_Catch ob = new Try_Catch();
+		ob.func1();
+		
+	}
+}
