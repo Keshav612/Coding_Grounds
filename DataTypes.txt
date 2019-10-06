@@ -1,5 +1,4 @@
-//Given an input integer, you must determine which primitive data types are capable of properly storing that input.
-//To get you started, a portion of the solution is provided for you in the editor.
+//Link::https://www.hackerrank.com/challenges/java-datatypes/problem
 import java.util.*;
 import java.io.*;
 
