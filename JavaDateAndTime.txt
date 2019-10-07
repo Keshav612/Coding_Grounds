@@ -1,0 +1,11 @@
+
+class Result 
+{
+  public static String findDay(int month, int day, int year)
+ {
+  java.time.LocalDate localDate = java.time.LocalDate.of(Integer.valueOf(year), Integer.valueOf(month), Integer.valueOf(day));
+    return localDate.getDayOfWeek().toString();
+    }
+
+}
+
