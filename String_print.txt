@@ -1,4 +1,4 @@
-//https://www.hackerrank.com/challenges/java-strings-introduction/problem
+// https://www.hackerrank.com/challenges/java-strings-introduction/problem
 import java.util.Scanner;
 
 public class Solution {
