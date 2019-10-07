@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/prime-checker/problem
 import java.util.*;
 public class Prime {
 	public static void main(String[] args) {
