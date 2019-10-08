@@ -1,6 +1,5 @@
 //https://www.hackerrank.com/challenges/30-data-types/problem
 //Keshav Mishra
-
 import java.io.*;
 import java.util.*;
 import java.text.*;
