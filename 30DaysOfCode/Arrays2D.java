@@ -44,7 +44,7 @@ public class Arrays2D {
                 c++;
             }
         }
-        Arrays.sort(s); //This function is not usable in eclipse IDE.Run the program in Hackerrank terminal..
+        Arrays.sort(s); 
         System.out.print(s[15]);
         scanner.close();
     }
